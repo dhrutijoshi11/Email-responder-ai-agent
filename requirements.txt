@@ -1,0 +1,18 @@
+# Core LLM & LangChain stack
+openai>=1.14.3
+langchain>=0.1.13
+langgraph>=0.0.18
+
+# Gmail API
+google-api-python-client>=2.121.0
+google-auth>=2.29.0
+google-auth-oauthlib>=1.2.0
+
+# Web app frontend
+streamlit>=1.34.0
+
+# Utilities
+python-dotenv>=1.0.1
+
+# Optional: for better formatting/parsing
+tqdm>=4.66.4
