@@ -1,2 +1,3 @@
-# Email-responder-ai-agent
-An AI-powered customer support email responder that classifies intent, selects tone, and generates brand-consistent replies using GPT-4. Built with LangChain, LangGraph, and Streamlit.
+# Email Responder AI Agent
+
+Automate customer support replies with intent detection, tone matching, and GPT-4 powered response generation. Modular, reviewable, and brand-aligned.
